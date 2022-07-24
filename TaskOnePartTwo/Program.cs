@@ -7,7 +7,7 @@ namespace TaskOnePartTwo
         static void Main(string[] args)
         {
             Console.Write("Hello ");
-            Console.Write("World ");
+            Console.Write("World");
             Console.Write("!!!");
             Console.ReadKey();
         }
